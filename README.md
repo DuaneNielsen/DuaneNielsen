@@ -1,6 +1,8 @@
-### Hi, I'm Anonymous <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I'm Duane <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[<img align="left" alt="Breakout" src="https://github.com/DuaneNielsen/DuaneNielsen/blob/main/breakout2.gif?raw=true" />]
+<img align="left" alt="Breakout" src="https://github.com/DuaneNielsen/DuaneNielsen/blob/main/breakout2.gif?raw=true" />
+I like making cool reinforcement learning projects.
+And I also think robots are great.
 
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
